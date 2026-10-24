@@ -1,0 +1,40 @@
+{
+  "vendor": "GREEN LEAF GROCERS",
+  "invoice_no": "INV-35105",
+  "date": "07/12/2026",
+  "items": [
+    {
+      "name": "Jam 500g",
+      "qty": 1,
+      "price": 150.0,
+      "amount": 150.0
+    },
+    {
+      "name": "Mustard Oil 1L",
+      "qty": 2,
+      "price": 175.0,
+      "amount": 350.0
+    },
+    {
+      "name": "Detergent 1kg",
+      "qty": 3,
+      "price": 120.0,
+      "amount": 360.0
+    },
+    {
+      "name": "Red Chilli 100g",
+      "qty": 2,
+      "price": 45.0,
+      "amount": 90.0
+    },
+    {
+      "name": "Butter 100g",
+      "qty": 3,
+      "price": 58.0,
+      "amount": 174.0
+    }
+  ],
+  "subtotal": 1124.0,
+  "tax": 134.88,
+  "total": 1258.88
+}

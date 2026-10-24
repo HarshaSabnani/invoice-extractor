@@ -1,0 +1,46 @@
+{
+  "vendor": "MODERN MART",
+  "invoice_no": "INV-17685",
+  "date": "06/07/2026",
+  "items": [
+    {
+      "name": "Milk 1L",
+      "qty": 2,
+      "price": 60.0,
+      "amount": 120.0
+    },
+    {
+      "name": "Shampoo 180ml",
+      "qty": 2,
+      "price": 165.0,
+      "amount": 330.0
+    },
+    {
+      "name": "Butter 100g",
+      "qty": 3,
+      "price": 58.0,
+      "amount": 174.0
+    },
+    {
+      "name": "Bath Soap",
+      "qty": 2,
+      "price": 38.0,
+      "amount": 76.0
+    },
+    {
+      "name": "Dish Wash 500ml",
+      "qty": 1,
+      "price": 99.0,
+      "amount": 99.0
+    },
+    {
+      "name": "Toothpaste 100g",
+      "qty": 5,
+      "price": 72.0,
+      "amount": 360.0
+    }
+  ],
+  "subtotal": 1159.0,
+  "tax": 57.95,
+  "total": 1216.95
+}

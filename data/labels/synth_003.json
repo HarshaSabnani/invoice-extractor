@@ -1,0 +1,52 @@
+{
+  "vendor": "DAILY NEEDS HYPERMART",
+  "invoice_no": "INV-80284",
+  "date": "04/07/2026",
+  "items": [
+    {
+      "name": "Butter 100g",
+      "qty": 1,
+      "price": 58.0,
+      "amount": 58.0
+    },
+    {
+      "name": "Turmeric 100g",
+      "qty": 2,
+      "price": 40.0,
+      "amount": 80.0
+    },
+    {
+      "name": "Red Chilli 100g",
+      "qty": 3,
+      "price": 45.0,
+      "amount": 135.0
+    },
+    {
+      "name": "Curd 400g",
+      "qty": 1,
+      "price": 35.0,
+      "amount": 35.0
+    },
+    {
+      "name": "Mustard Oil 1L",
+      "qty": 2,
+      "price": 175.0,
+      "amount": 350.0
+    },
+    {
+      "name": "Sugar 1kg",
+      "qty": 1,
+      "price": 48.0,
+      "amount": 48.0
+    },
+    {
+      "name": "Sunflower Oil 1L",
+      "qty": 4,
+      "price": 140.0,
+      "amount": 560.0
+    }
+  ],
+  "subtotal": 1266.0,
+  "tax": 63.3,
+  "total": 1329.3
+}

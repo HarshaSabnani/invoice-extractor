@@ -1,0 +1,28 @@
+{
+  "vendor": "DAILY NEEDS HYPERMART",
+  "invoice_no": "INV-82309",
+  "date": "23/07/2026",
+  "items": [
+    {
+      "name": "Tea Powder 500g",
+      "qty": 2,
+      "price": 95.0,
+      "amount": 190.0
+    },
+    {
+      "name": "Sunflower Oil 1L",
+      "qty": 5,
+      "price": 140.0,
+      "amount": 700.0
+    },
+    {
+      "name": "Coffee 200g",
+      "qty": 1,
+      "price": 285.0,
+      "amount": 285.0
+    }
+  ],
+  "subtotal": 1175.0,
+  "tax": 211.5,
+  "total": 1386.5
+}

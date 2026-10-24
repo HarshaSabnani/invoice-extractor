@@ -1,0 +1,52 @@
+{
+  "vendor": "NEW INDIA PROVISIONS",
+  "invoice_no": "B-23356",
+  "date": "23/05/2026",
+  "items": [
+    {
+      "name": "Tea Powder 500g",
+      "qty": 1,
+      "price": 95.0,
+      "amount": 95.0
+    },
+    {
+      "name": "Mustard Oil 1L",
+      "qty": 5,
+      "price": 175.0,
+      "amount": 875.0
+    },
+    {
+      "name": "Toor Dal 1kg",
+      "qty": 3,
+      "price": 165.0,
+      "amount": 495.0
+    },
+    {
+      "name": "Curd 400g",
+      "qty": 1,
+      "price": 35.0,
+      "amount": 35.0
+    },
+    {
+      "name": "Dish Wash 500ml",
+      "qty": 4,
+      "price": 99.0,
+      "amount": 396.0
+    },
+    {
+      "name": "Bath Soap",
+      "qty": 4,
+      "price": 38.0,
+      "amount": 152.0
+    },
+    {
+      "name": "Turmeric 100g",
+      "qty": 1,
+      "price": 40.0,
+      "amount": 40.0
+    }
+  ],
+  "subtotal": 2088.0,
+  "tax": 375.84,
+  "total": 2463.84
+}

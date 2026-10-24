@@ -1,0 +1,40 @@
+{
+  "vendor": "SHREE GANESH STORES",
+  "invoice_no": "INV-43862",
+  "date": "11/05/2026",
+  "items": [
+    {
+      "name": "Dish Wash 500ml",
+      "qty": 2,
+      "price": 99.0,
+      "amount": 198.0
+    },
+    {
+      "name": "Basmati Rice 5kg",
+      "qty": 4,
+      "price": 520.0,
+      "amount": 2080.0
+    },
+    {
+      "name": "Detergent 1kg",
+      "qty": 4,
+      "price": 120.0,
+      "amount": 480.0
+    },
+    {
+      "name": "Sugar 1kg",
+      "qty": 5,
+      "price": 48.0,
+      "amount": 240.0
+    },
+    {
+      "name": "Sunflower Oil 1L",
+      "qty": 2,
+      "price": 140.0,
+      "amount": 280.0
+    }
+  ],
+  "subtotal": 3278.0,
+  "tax": 590.04,
+  "total": 3868.04
+}

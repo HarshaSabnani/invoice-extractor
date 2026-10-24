@@ -1,0 +1,46 @@
+{
+  "vendor": "SHREE GANESH STORES",
+  "invoice_no": "INV-37869",
+  "date": "21/08/2026",
+  "items": [
+    {
+      "name": "Biscuits Pack",
+      "qty": 3,
+      "price": 25.0,
+      "amount": 75.0
+    },
+    {
+      "name": "Milk 1L",
+      "qty": 5,
+      "price": 60.0,
+      "amount": 300.0
+    },
+    {
+      "name": "Jam 500g",
+      "qty": 4,
+      "price": 150.0,
+      "amount": 600.0
+    },
+    {
+      "name": "Salt 1kg",
+      "qty": 5,
+      "price": 22.0,
+      "amount": 110.0
+    },
+    {
+      "name": "Dish Wash 500ml",
+      "qty": 4,
+      "price": 99.0,
+      "amount": 396.0
+    },
+    {
+      "name": "Red Chilli 100g",
+      "qty": 3,
+      "price": 45.0,
+      "amount": 135.0
+    }
+  ],
+  "subtotal": 1616.0,
+  "tax": 193.92,
+  "total": 1809.92
+}

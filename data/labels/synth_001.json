@@ -1,0 +1,34 @@
+{
+  "vendor": "CITY MART",
+  "invoice_no": "B-13278",
+  "date": "24/05/2026",
+  "items": [
+    {
+      "name": "Biscuits Pack",
+      "qty": 5,
+      "price": 25.0,
+      "amount": 125.0
+    },
+    {
+      "name": "Jam 500g",
+      "qty": 1,
+      "price": 150.0,
+      "amount": 150.0
+    },
+    {
+      "name": "Tea Powder 500g",
+      "qty": 5,
+      "price": 95.0,
+      "amount": 475.0
+    },
+    {
+      "name": "Cashew 250g",
+      "qty": 4,
+      "price": 310.0,
+      "amount": 1240.0
+    }
+  ],
+  "subtotal": 1990.0,
+  "tax": 99.5,
+  "total": 2089.5
+}

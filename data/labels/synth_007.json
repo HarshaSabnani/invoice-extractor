@@ -1,0 +1,52 @@
+{
+  "vendor": "GREEN LEAF GROCERS",
+  "invoice_no": "B-76542",
+  "date": "04/11/2026",
+  "items": [
+    {
+      "name": "Red Chilli 100g",
+      "qty": 1,
+      "price": 45.0,
+      "amount": 45.0
+    },
+    {
+      "name": "Sugar 1kg",
+      "qty": 5,
+      "price": 48.0,
+      "amount": 240.0
+    },
+    {
+      "name": "Biscuits Pack",
+      "qty": 3,
+      "price": 25.0,
+      "amount": 75.0
+    },
+    {
+      "name": "Curd 400g",
+      "qty": 4,
+      "price": 35.0,
+      "amount": 140.0
+    },
+    {
+      "name": "Wheat Flour 5kg",
+      "qty": 1,
+      "price": 245.0,
+      "amount": 245.0
+    },
+    {
+      "name": "Dish Wash 500ml",
+      "qty": 1,
+      "price": 99.0,
+      "amount": 99.0
+    },
+    {
+      "name": "Detergent 1kg",
+      "qty": 3,
+      "price": 120.0,
+      "amount": 360.0
+    }
+  ],
+  "subtotal": 1204.0,
+  "tax": 144.48,
+  "total": 1348.48
+}

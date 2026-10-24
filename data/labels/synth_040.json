@@ -1,0 +1,46 @@
+{
+  "vendor": "ROYAL KIRANA BAZAAR",
+  "invoice_no": "B-87993",
+  "date": "24/10/2026",
+  "items": [
+    {
+      "name": "Tea Powder 500g",
+      "qty": 5,
+      "price": 95.0,
+      "amount": 475.0
+    },
+    {
+      "name": "Shampoo 180ml",
+      "qty": 4,
+      "price": 165.0,
+      "amount": 660.0
+    },
+    {
+      "name": "Butter 100g",
+      "qty": 4,
+      "price": 58.0,
+      "amount": 232.0
+    },
+    {
+      "name": "Maggi Noodles",
+      "qty": 1,
+      "price": 14.0,
+      "amount": 14.0
+    },
+    {
+      "name": "Milk 1L",
+      "qty": 5,
+      "price": 60.0,
+      "amount": 300.0
+    },
+    {
+      "name": "Detergent 1kg",
+      "qty": 1,
+      "price": 120.0,
+      "amount": 120.0
+    }
+  ],
+  "subtotal": 1801.0,
+  "tax": 216.12,
+  "total": 2017.12
+}

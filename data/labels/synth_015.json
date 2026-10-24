@@ -1,0 +1,40 @@
+{
+  "vendor": "CITY MART",
+  "invoice_no": "INV-19602",
+  "date": "18/04/2026",
+  "items": [
+    {
+      "name": "Biscuits Pack",
+      "qty": 2,
+      "price": 25.0,
+      "amount": 50.0
+    },
+    {
+      "name": "Curd 400g",
+      "qty": 4,
+      "price": 35.0,
+      "amount": 140.0
+    },
+    {
+      "name": "Sunflower Oil 1L",
+      "qty": 5,
+      "price": 140.0,
+      "amount": 700.0
+    },
+    {
+      "name": "Salt 1kg",
+      "qty": 3,
+      "price": 22.0,
+      "amount": 66.0
+    },
+    {
+      "name": "Butter 100g",
+      "qty": 5,
+      "price": 58.0,
+      "amount": 290.0
+    }
+  ],
+  "subtotal": 1246.0,
+  "tax": 224.28,
+  "total": 1470.28
+}

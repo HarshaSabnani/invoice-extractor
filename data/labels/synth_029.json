@@ -1,0 +1,52 @@
+{
+  "vendor": "ROYAL KIRANA BAZAAR",
+  "invoice_no": "INV-20735",
+  "date": "16/01/2026",
+  "items": [
+    {
+      "name": "Toor Dal 1kg",
+      "qty": 2,
+      "price": 165.0,
+      "amount": 330.0
+    },
+    {
+      "name": "Curd 400g",
+      "qty": 2,
+      "price": 35.0,
+      "amount": 70.0
+    },
+    {
+      "name": "Salt 1kg",
+      "qty": 1,
+      "price": 22.0,
+      "amount": 22.0
+    },
+    {
+      "name": "Turmeric 100g",
+      "qty": 5,
+      "price": 40.0,
+      "amount": 200.0
+    },
+    {
+      "name": "Sunflower Oil 1L",
+      "qty": 2,
+      "price": 140.0,
+      "amount": 280.0
+    },
+    {
+      "name": "Jam 500g",
+      "qty": 2,
+      "price": 150.0,
+      "amount": 300.0
+    },
+    {
+      "name": "Basmati Rice 5kg",
+      "qty": 2,
+      "price": 520.0,
+      "amount": 1040.0
+    }
+  ],
+  "subtotal": 2242.0,
+  "tax": 403.56,
+  "total": 2645.56
+}

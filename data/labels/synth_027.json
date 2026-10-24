@@ -1,0 +1,46 @@
+{
+  "vendor": "METRO FRESH STORES",
+  "invoice_no": "INV-12560",
+  "date": "28/10/2026",
+  "items": [
+    {
+      "name": "Basmati Rice 5kg",
+      "qty": 5,
+      "price": 520.0,
+      "amount": 2600.0
+    },
+    {
+      "name": "Curd 400g",
+      "qty": 5,
+      "price": 35.0,
+      "amount": 175.0
+    },
+    {
+      "name": "Butter 100g",
+      "qty": 2,
+      "price": 58.0,
+      "amount": 116.0
+    },
+    {
+      "name": "Maggi Noodles",
+      "qty": 4,
+      "price": 14.0,
+      "amount": 56.0
+    },
+    {
+      "name": "Bath Soap",
+      "qty": 2,
+      "price": 38.0,
+      "amount": 76.0
+    },
+    {
+      "name": "Dish Wash 500ml",
+      "qty": 3,
+      "price": 99.0,
+      "amount": 297.0
+    }
+  ],
+  "subtotal": 3320.0,
+  "tax": 398.4,
+  "total": 3718.4
+}

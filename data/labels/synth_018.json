@@ -1,0 +1,28 @@
+{
+  "vendor": "SUNRISE SUPERMART",
+  "invoice_no": "INV-56898",
+  "date": "07/11/2026",
+  "items": [
+    {
+      "name": "Curd 400g",
+      "qty": 5,
+      "price": 35.0,
+      "amount": 175.0
+    },
+    {
+      "name": "Dish Wash 500ml",
+      "qty": 2,
+      "price": 99.0,
+      "amount": 198.0
+    },
+    {
+      "name": "Bath Soap",
+      "qty": 2,
+      "price": 38.0,
+      "amount": 76.0
+    }
+  ],
+  "subtotal": 449.0,
+  "tax": 22.45,
+  "total": 471.45
+}

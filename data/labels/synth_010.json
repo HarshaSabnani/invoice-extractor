@@ -1,0 +1,52 @@
+{
+  "vendor": "NEW INDIA PROVISIONS",
+  "invoice_no": "B-46500",
+  "date": "22/08/2026",
+  "items": [
+    {
+      "name": "Biscuits Pack",
+      "qty": 2,
+      "price": 25.0,
+      "amount": 50.0
+    },
+    {
+      "name": "Mustard Oil 1L",
+      "qty": 1,
+      "price": 175.0,
+      "amount": 175.0
+    },
+    {
+      "name": "Coffee 200g",
+      "qty": 1,
+      "price": 285.0,
+      "amount": 285.0
+    },
+    {
+      "name": "Toothpaste 100g",
+      "qty": 4,
+      "price": 72.0,
+      "amount": 288.0
+    },
+    {
+      "name": "Salt 1kg",
+      "qty": 3,
+      "price": 22.0,
+      "amount": 66.0
+    },
+    {
+      "name": "Turmeric 100g",
+      "qty": 4,
+      "price": 40.0,
+      "amount": 160.0
+    },
+    {
+      "name": "Bath Soap",
+      "qty": 4,
+      "price": 38.0,
+      "amount": 152.0
+    }
+  ],
+  "subtotal": 1176.0,
+  "tax": 58.8,
+  "total": 1234.8
+}

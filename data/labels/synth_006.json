@@ -1,0 +1,52 @@
+{
+  "vendor": "GREEN LEAF GROCERS",
+  "invoice_no": "INV-92240",
+  "date": "06/11/2026",
+  "items": [
+    {
+      "name": "Sunflower Oil 1L",
+      "qty": 5,
+      "price": 140.0,
+      "amount": 700.0
+    },
+    {
+      "name": "Maggi Noodles",
+      "qty": 1,
+      "price": 14.0,
+      "amount": 14.0
+    },
+    {
+      "name": "Coffee 200g",
+      "qty": 1,
+      "price": 285.0,
+      "amount": 285.0
+    },
+    {
+      "name": "Red Chilli 100g",
+      "qty": 5,
+      "price": 45.0,
+      "amount": 225.0
+    },
+    {
+      "name": "Shampoo 180ml",
+      "qty": 3,
+      "price": 165.0,
+      "amount": 495.0
+    },
+    {
+      "name": "Detergent 1kg",
+      "qty": 3,
+      "price": 120.0,
+      "amount": 360.0
+    },
+    {
+      "name": "Milk 1L",
+      "qty": 1,
+      "price": 60.0,
+      "amount": 60.0
+    }
+  ],
+  "subtotal": 2139.0,
+  "tax": 256.68,
+  "total": 2395.68
+}

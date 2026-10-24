@@ -1,0 +1,46 @@
+{
+  "vendor": "LUCKY GENERAL STORE",
+  "invoice_no": "INV-95256",
+  "date": "09/10/2026",
+  "items": [
+    {
+      "name": "Shampoo 180ml",
+      "qty": 1,
+      "price": 165.0,
+      "amount": 165.0
+    },
+    {
+      "name": "Bath Soap",
+      "qty": 3,
+      "price": 38.0,
+      "amount": 114.0
+    },
+    {
+      "name": "Mustard Oil 1L",
+      "qty": 4,
+      "price": 175.0,
+      "amount": 700.0
+    },
+    {
+      "name": "Milk 1L",
+      "qty": 2,
+      "price": 60.0,
+      "amount": 120.0
+    },
+    {
+      "name": "Paneer 200g",
+      "qty": 4,
+      "price": 90.0,
+      "amount": 360.0
+    },
+    {
+      "name": "Salt 1kg",
+      "qty": 5,
+      "price": 22.0,
+      "amount": 110.0
+    }
+  ],
+  "subtotal": 1569.0,
+  "tax": 282.42,
+  "total": 1851.42
+}

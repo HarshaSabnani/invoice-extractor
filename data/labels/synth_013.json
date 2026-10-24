@@ -1,0 +1,28 @@
+{
+  "vendor": "GREEN LEAF GROCERS",
+  "invoice_no": "B-17455",
+  "date": "17/02/2026",
+  "items": [
+    {
+      "name": "Red Chilli 100g",
+      "qty": 2,
+      "price": 45.0,
+      "amount": 90.0
+    },
+    {
+      "name": "Sunflower Oil 1L",
+      "qty": 4,
+      "price": 140.0,
+      "amount": 560.0
+    },
+    {
+      "name": "Cashew 250g",
+      "qty": 1,
+      "price": 310.0,
+      "amount": 310.0
+    }
+  ],
+  "subtotal": 960.0,
+  "tax": 48.0,
+  "total": 1008.0
+}
