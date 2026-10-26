@@ -1,0 +1,40 @@
+{
+  "vendor": "SUNRISE SUPERMART",
+  "invoice_no": "INV - 20481",
+  "date": "18/10/2026",
+  "items": [
+    {
+      "name": "Basmati Rice 5kg",
+      "qty": 1,
+      "price": 520.0,
+      "amount": 520.6
+    },
+    {
+      "name": "Toor Dal 1kg",
+      "qty": 2,
+      "price": 165.0,
+      "amount": 330.0
+    },
+    {
+      "name": "Sunflower Oil 1L",
+      "qty": 1,
+      "price": 140.0,
+      "amount": 146.6
+    },
+    {
+      "name": "Tea Powder 5009",
+      "qty": 2,
+      "price": 95.0,
+      "amount": 190.0
+    },
+    {
+      "name": "Biscuits Pack",
+      "qty": 4,
+      "price": 25.0,
+      "amount": 100.0
+    }
+  ],
+  "subtotal": 1280.6,
+  "tax": 64.0,
+  "total": 1344.66
+}

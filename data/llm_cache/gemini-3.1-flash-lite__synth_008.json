@@ -1,0 +1,34 @@
+{
+  "vendor": "CITY MART",
+  "invoice_no": "INV-73699",
+  "date": "27/02/2026",
+  "items": [
+    {
+      "name": "Biscuits Pack",
+      "qty": 2,
+      "price": 25.0,
+      "amount": 50.0
+    },
+    {
+      "name": "Cashew 250g",
+      "qty": 3,
+      "price": 310.0,
+      "amount": 930.0
+    },
+    {
+      "name": "Toothpaste 100g",
+      "qty": 5,
+      "price": 72.0,
+      "amount": 360.0
+    },
+    {
+      "name": "Dish Wash 500ml",
+      "qty": 5,
+      "price": 99.0,
+      "amount": 495.0
+    }
+  ],
+  "subtotal": 1835.0,
+  "tax": 330.3,
+  "total": 2165.3
+}

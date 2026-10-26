@@ -1,0 +1,40 @@
+{
+  "vendor": "CITY MART",
+  "invoice_no": "INV-47450",
+  "date": "08/05/2026",
+  "items": [
+    {
+      "name": "Dish Wash 500ml",
+      "qty": 2,
+      "price": 99.0,
+      "amount": 198.0
+    },
+    {
+      "name": "Sunflower Oil 1L",
+      "qty": 2,
+      "price": 140.0,
+      "amount": 280.0
+    },
+    {
+      "name": "Biscuits Pack",
+      "qty": 1,
+      "price": 25.0,
+      "amount": 25.0
+    },
+    {
+      "name": "Salt lkg",
+      "qty": 4,
+      "price": 22.0,
+      "amount": 88.0
+    },
+    {
+      "name": "Maggi Noodles",
+      "qty": 4,
+      "price": 14.0,
+      "amount": 56.0
+    }
+  ],
+  "subtotal": 647.0,
+  "tax": 77.64,
+  "total": 724.64
+}

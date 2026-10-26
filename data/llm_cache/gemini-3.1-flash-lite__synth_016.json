@@ -1,0 +1,52 @@
+{
+  "vendor": "CITY MART",
+  "invoice_no": "B-27601",
+  "date": "09/02/2026",
+  "items": [
+    {
+      "name": "Biscuits Pack",
+      "qty": 3,
+      "price": 25.0,
+      "amount": 75.0
+    },
+    {
+      "name": "Milk 1L",
+      "qty": 5,
+      "price": 60.0,
+      "amount": 300.0
+    },
+    {
+      "name": "Butter 100g",
+      "qty": 4,
+      "price": 58.0,
+      "amount": 232.0
+    },
+    {
+      "name": "Red Chilli 100g",
+      "qty": 3,
+      "price": 45.0,
+      "amount": 135.0
+    },
+    {
+      "name": "Sugar lkg",
+      "qty": 1,
+      "price": 48.0,
+      "amount": 48.0
+    },
+    {
+      "name": "Paneer 200g",
+      "qty": 1,
+      "price": 90.0,
+      "amount": 90.0
+    },
+    {
+      "name": "Turmeric 100g",
+      "qty": 4,
+      "price": 40.0,
+      "amount": 160.0
+    }
+  ],
+  "subtotal": 1040.0,
+  "tax": 52.0,
+  "total": 1092.0
+}

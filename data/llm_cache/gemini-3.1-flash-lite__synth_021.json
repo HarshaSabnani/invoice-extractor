@@ -1,0 +1,52 @@
+{
+  "vendor": "MODERN MART",
+  "invoice_no": "INV-55309",
+  "date": "24/06/2026",
+  "items": [
+    {
+      "name": "Detergent lkg",
+      "qty": 4,
+      "price": 120.0,
+      "amount": 480.0
+    },
+    {
+      "name": "Tea Powder 500g",
+      "qty": 1,
+      "price": 95.0,
+      "amount": 95.0
+    },
+    {
+      "name": "Maggi Noodles",
+      "qty": 5,
+      "price": 14.0,
+      "amount": 70.0
+    },
+    {
+      "name": "Mustard Oi} 1L",
+      "qty": 5,
+      "price": 175.0,
+      "amount": 875.0
+    },
+    {
+      "name": "Sugar lkg",
+      "qty": 2,
+      "price": 48.0,
+      "amount": 96.0
+    },
+    {
+      "name": "Milk 1L",
+      "qty": 3,
+      "price": 60.0,
+      "amount": 180.0
+    },
+    {
+      "name": "Toor Dal lkg",
+      "qty": 4,
+      "price": 165.0,
+      "amount": 660.0
+    }
+  ],
+  "subtotal": 2456.0,
+  "tax": 294.72,
+  "total": 2750.72
+}

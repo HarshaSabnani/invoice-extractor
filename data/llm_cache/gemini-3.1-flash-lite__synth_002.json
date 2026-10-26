@@ -1,0 +1,40 @@
+{
+  "vendor": "LUCKY GENERAL STORE",
+  "invoice_no": "INV-64987",
+  "date": "08/08/2026",
+  "items": [
+    {
+      "name": "Basmati Rice Skg",
+      "qty": 3,
+      "price": 520.0,
+      "amount": 1560.0
+    },
+    {
+      "name": "Wheat Flour Skg",
+      "qty": 2,
+      "price": 245.0,
+      "amount": 490.0
+    },
+    {
+      "name": "Coffee 200g",
+      "qty": 2,
+      "price": 285.0,
+      "amount": 570.0
+    },
+    {
+      "name": "Bath Soap",
+      "qty": 3,
+      "price": 38.0,
+      "amount": 114.0
+    },
+    {
+      "name": "Paneer 200g",
+      "qty": 1,
+      "price": 90.0,
+      "amount": 90.0
+    }
+  ],
+  "subtotal": 2824.0,
+  "tax": 508.32,
+  "total": 3332.32
+}

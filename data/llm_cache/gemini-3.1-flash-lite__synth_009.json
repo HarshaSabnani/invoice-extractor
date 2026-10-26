@@ -1,0 +1,52 @@
+{
+  "vendor": "MODERN MART",
+  "invoice_no": "INV-98039",
+  "date": "21/06/2026",
+  "items": [
+    {
+      "name": "Shampoo 180ml",
+      "qty": 5,
+      "price": 165.0,
+      "amount": 825.0
+    },
+    {
+      "name": "Tea Powder 500g",
+      "qty": 5,
+      "price": 95.0,
+      "amount": 475.0
+    },
+    {
+      "name": "Salt 1kg",
+      "qty": 2,
+      "price": 22.0,
+      "amount": 44.0
+    },
+    {
+      "name": "Cashew 250g",
+      "qty": 5,
+      "price": 310.0,
+      "amount": 1550.0
+    },
+    {
+      "name": "Sunflower Oil 1L",
+      "qty": 2,
+      "price": 140.0,
+      "amount": 280.0
+    },
+    {
+      "name": "Paneer 200g",
+      "qty": 1,
+      "price": 90.0,
+      "amount": 90.0
+    },
+    {
+      "name": "Basmati Rice 5kg",
+      "qty": 1,
+      "price": 520.0,
+      "amount": 520.0
+    }
+  ],
+  "subtotal": 3784.0,
+  "tax": 454.08,
+  "total": 4238.08
+}

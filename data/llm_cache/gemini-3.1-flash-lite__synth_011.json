@@ -1,0 +1,52 @@
+{
+  "vendor": "SHREE GANESH STORES",
+  "invoice_no": "INV-24322",
+  "date": "08/04/2026",
+  "items": [
+    {
+      "name": "Shampoo 180ml",
+      "qty": 1,
+      "price": 165.0,
+      "amount": 165.0
+    },
+    {
+      "name": "Biscuits Pack",
+      "qty": 4,
+      "price": 25.0,
+      "amount": 100.0
+    },
+    {
+      "name": "Bath Soap",
+      "qty": 5,
+      "price": 38.0,
+      "amount": 190.0
+    },
+    {
+      "name": "Wheat Flour 5kg",
+      "qty": 1,
+      "price": 245.0,
+      "amount": 245.0
+    },
+    {
+      "name": "Milk 1L",
+      "qty": 1,
+      "price": 60.0,
+      "amount": 60.0
+    },
+    {
+      "name": "Jam 5009",
+      "qty": 5,
+      "price": 150.0,
+      "amount": 750.0
+    },
+    {
+      "name": "Salt 1kg",
+      "qty": 1,
+      "price": 22.0,
+      "amount": 22.0
+    }
+  ],
+  "subtotal": 1532.0,
+  "tax": 76.6,
+  "total": 1608.6
+}

@@ -1,0 +1,46 @@
+{
+  "vendor": "METRO FRESH STORES",
+  "invoice_no": "INV-89516",
+  "date": "21/06/2026",
+  "items": [
+    {
+      "name": "Shampoo 180ml",
+      "qty": 1,
+      "price": 165.0,
+      "amount": 165.0
+    },
+    {
+      "name": "Cashew 250g",
+      "qty": 3,
+      "price": 310.0,
+      "amount": 930.0
+    },
+    {
+      "name": "Sugar lkg",
+      "qty": 5,
+      "price": 48.0,
+      "amount": 240.0
+    },
+    {
+      "name": "Detergent lkg",
+      "qty": 5,
+      "price": 120.0,
+      "amount": 600.0
+    },
+    {
+      "name": "Toothpaste 100g",
+      "qty": 3,
+      "price": 72.0,
+      "amount": 216.0
+    },
+    {
+      "name": "Wheat Flour 5kg",
+      "qty": 1,
+      "price": 245.0,
+      "amount": 245.0
+    }
+  ],
+  "subtotal": 2396.0,
+  "tax": 287.52,
+  "total": 2683.52
+}

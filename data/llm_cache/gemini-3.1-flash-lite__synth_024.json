@@ -1,0 +1,46 @@
+{
+  "vendor": "SUNRISE SUPERMART",
+  "invoice_no": "INV-42092",
+  "date": "16/10/2026",
+  "items": [
+    {
+      "name": "Bath Soap",
+      "qty": 4,
+      "price": 38.0,
+      "amount": 152.0
+    },
+    {
+      "name": "Turmeric 100g",
+      "qty": 2,
+      "price": 40.0,
+      "amount": 80.0
+    },
+    {
+      "name": "Mustard Oil 11h",
+      "qty": 2,
+      "price": 175.0,
+      "amount": 350.0
+    },
+    {
+      "name": "Sugar lkg",
+      "qty": 1,
+      "price": 48.0,
+      "amount": 48.0
+    },
+    {
+      "name": "Maggi Noodles",
+      "qty": 1,
+      "price": 14.0,
+      "amount": 14.0
+    },
+    {
+      "name": "Toothpaste 100g",
+      "qty": 4,
+      "price": 72.0,
+      "amount": 288.0
+    }
+  ],
+  "subtotal": 932.0,
+  "tax": 46.6,
+  "total": 978.6
+}

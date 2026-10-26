@@ -1,0 +1,40 @@
+{
+  "vendor": "MODERN MART",
+  "invoice_no": "B-41890",
+  "date": "10/11/2026",
+  "items": [
+    {
+      "name": "Toothpaste 100g",
+      "qty": 5,
+      "price": 72.0,
+      "amount": 360.0
+    },
+    {
+      "name": "Dish Wash 500ml",
+      "qty": 3,
+      "price": 99.0,
+      "amount": 297.0
+    },
+    {
+      "name": "Detergent lkg",
+      "qty": 3,
+      "price": 120.0,
+      "amount": 360.0
+    },
+    {
+      "name": "Curd 400g",
+      "qty": 4,
+      "price": 35.0,
+      "amount": 140.0
+    },
+    {
+      "name": "Bath Soap",
+      "qty": 3,
+      "price": 38.0,
+      "amount": 114.0
+    }
+  ],
+  "subtotal": 1271.0,
+  "tax": 228.78,
+  "total": 1499.78
+}

@@ -1,0 +1,34 @@
+{
+  "vendor": "SHREE GANESH STORES",
+  "invoice_no": "B-63964",
+  "date": "26/11/2026",
+  "items": [
+    {
+      "name": "Milk 1L",
+      "qty": 4,
+      "price": 60.0,
+      "amount": 240.0
+    },
+    {
+      "name": "Wheat Flour Skg",
+      "qty": 1,
+      "price": 245.0,
+      "amount": 245.0
+    },
+    {
+      "name": "Coffee 200g",
+      "qty": 4,
+      "price": 285.0,
+      "amount": 1140.0
+    },
+    {
+      "name": "Tea Powder 500g",
+      "qty": 2,
+      "price": 95.0,
+      "amount": 190.0
+    }
+  ],
+  "subtotal": 1815.0,
+  "tax": 326.7,
+  "total": 2141.7
+}

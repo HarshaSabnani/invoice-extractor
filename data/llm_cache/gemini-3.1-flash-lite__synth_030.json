@@ -1,0 +1,28 @@
+{
+  "vendor": "GREEN LEAF GROCERS",
+  "invoice_no": "INV-89415",
+  "date": "20/12/2026",
+  "items": [
+    {
+      "name": "Wheat Flour 5kg",
+      "qty": 5,
+      "price": 245.0,
+      "amount": 1225.0
+    },
+    {
+      "name": "Butter 100g",
+      "qty": 1,
+      "price": 58.0,
+      "amount": 58.0
+    },
+    {
+      "name": "Tea Powder 500g",
+      "qty": 3,
+      "price": 95.0,
+      "amount": 285.0
+    }
+  ],
+  "subtotal": 1568.0,
+  "tax": 282.24,
+  "total": 1850.24
+}

@@ -1,0 +1,40 @@
+{
+  "vendor": "SUNRISE SUPERMART",
+  "invoice_no": "INV-96511",
+  "date": "07/07/2026",
+  "items": [
+    {
+      "name": "Sunflower Oil 1L",
+      "qty": 4,
+      "price": 140.0,
+      "amount": 560.0
+    },
+    {
+      "name": "Milk 1L",
+      "qty": 5,
+      "price": 60.0,
+      "amount": 300.0
+    },
+    {
+      "name": "Curd 400g",
+      "qty": 3,
+      "price": 35.0,
+      "amount": 105.0
+    },
+    {
+      "name": "Turmeric 100g",
+      "qty": 1,
+      "price": 40.0,
+      "amount": 40.0
+    },
+    {
+      "name": "Detergent lkg",
+      "qty": 1,
+      "price": 120.0,
+      "amount": 120.0
+    }
+  ],
+  "subtotal": 1125.0,
+  "tax": 135.0,
+  "total": 1260.0
+}

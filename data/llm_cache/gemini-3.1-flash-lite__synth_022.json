@@ -1,0 +1,40 @@
+{
+  "vendor": "ROYAL KIRANA BAZAAR",
+  "invoice_no": "B-76469",
+  "date": "10/11/2026",
+  "items": [
+    {
+      "name": "Maggi Noodles",
+      "qty": 2,
+      "price": 14.0,
+      "amount": 28.0
+    },
+    {
+      "name": "Coffee 200g",
+      "qty": 4,
+      "price": 285.0,
+      "amount": 1140.0
+    },
+    {
+      "name": "Butter 100g",
+      "qty": 4,
+      "price": 58.0,
+      "amount": 232.0
+    },
+    {
+      "name": "Dish Wash 500ml",
+      "qty": 2,
+      "price": 99.0,
+      "amount": 198.0
+    },
+    {
+      "name": "Biscuits Pack",
+      "qty": 5,
+      "price": 25.0,
+      "amount": 125.0
+    }
+  ],
+  "subtotal": 1723.0,
+  "tax": 206.76,
+  "total": 1929.76
+}

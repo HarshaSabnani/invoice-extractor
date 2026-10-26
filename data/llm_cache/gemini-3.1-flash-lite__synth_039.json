@@ -1,0 +1,40 @@
+{
+  "vendor": "ROYAL KIRANA BAZAAR",
+  "invoice_no": "INV-14278",
+  "date": "08/05/2026",
+  "items": [
+    {
+      "name": "Coffee 200g",
+      "qty": 3,
+      "price": 285.0,
+      "amount": 855.0
+    },
+    {
+      "name": "Shampoo 180ml",
+      "qty": 5,
+      "price": 165.0,
+      "amount": 825.0
+    },
+    {
+      "name": "Sunflower Oil 1L",
+      "qty": 2,
+      "price": 140.0,
+      "amount": 280.0
+    },
+    {
+      "name": "Cashew 250g",
+      "qty": 4,
+      "price": 310.0,
+      "amount": 1240.0
+    },
+    {
+      "name": "Salt lkg",
+      "qty": 1,
+      "price": 22.0,
+      "amount": 22.0
+    }
+  ],
+  "subtotal": 3222.0,
+  "tax": 579.96,
+  "total": 3801.96
+}

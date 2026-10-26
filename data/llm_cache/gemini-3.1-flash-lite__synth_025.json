@@ -1,0 +1,52 @@
+{
+  "vendor": "DAILY NEEDS HYPERMART",
+  "invoice_no": "B-27477",
+  "date": "26/08/2026",
+  "items": [
+    {
+      "name": "Dish Wash 500ml",
+      "qty": 5,
+      "price": 99.0,
+      "amount": 495.0
+    },
+    {
+      "name": "Red Chilli 100g",
+      "qty": 4,
+      "price": 45.0,
+      "amount": 180.0
+    },
+    {
+      "name": "Paneer 200g",
+      "qty": 2,
+      "price": 90.0,
+      "amount": 180.0
+    },
+    {
+      "name": "Shampoo 180ml",
+      "qty": 4,
+      "price": 165.0,
+      "amount": 660.0
+    },
+    {
+      "name": "Coffee 200g",
+      "qty": 4,
+      "price": 285.0,
+      "amount": 1140.0
+    },
+    {
+      "name": "Detergent 1lkg",
+      "qty": 3,
+      "price": 120.0,
+      "amount": 360.0
+    },
+    {
+      "name": "Bath Soap",
+      "qty": 2,
+      "price": 38.0,
+      "amount": 76.0
+    }
+  ],
+  "subtotal": 3091.0,
+  "tax": 556.38,
+  "total": 3647.38
+}

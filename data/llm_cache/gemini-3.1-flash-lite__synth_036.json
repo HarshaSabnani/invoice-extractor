@@ -1,0 +1,28 @@
+{
+  "vendor": "ROYAL KIRANA BAZAAR",
+  "invoice_no": "INV-26551",
+  "date": "21/08/2026",
+  "items": [
+    {
+      "name": "Mustard Oil",
+      "qty": 4,
+      "price": 175.0,
+      "amount": 700.0
+    },
+    {
+      "name": "Butter 100g",
+      "qty": 4,
+      "price": 58.0,
+      "amount": 232.0
+    },
+    {
+      "name": "Toothpaste 100g",
+      "qty": 3,
+      "price": 72.0,
+      "amount": 216.0
+    }
+  ],
+  "subtotal": 1148.0,
+  "tax": 57.4,
+  "total": 1205.4
+}
