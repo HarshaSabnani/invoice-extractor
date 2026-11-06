@@ -35,7 +35,7 @@ What the results show:
 
 Known issues:
 
-- Most remaining line-item errors are on items whose names contain units such as `1kg` or `1L`.
+- The remaining line-item errors (4%) are OCR garbling of the unit text in item names, such as `1lkg` or `Oi}`. The rules don't recognise these. Adding a rule for each pattern would only tune the system to the synthetic receipts, so they are left unfixed until the system is tested on real receipts.
 
 ## Data note
 
