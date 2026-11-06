@@ -22,7 +22,7 @@ Evaluated on 42 receipts (40 synthetic across 3 layouts + 2 hand-made samples).
 | Vendor | 71% | 100% | 100% |
 | Invoice number | 64% | 100% | 100% |
 | Date | 36% | 100% | 100% |
-| Subtotal | 52% | 98% | 98% |
+| Subtotal | 52% | 98% | 100% |
 | Tax | 86% | 98% | 100% |
 | Total | 55% | 98% | 100% |
 | Line items | 69% | 82% | 96% |
@@ -31,11 +31,10 @@ What the results show:
 
 - The regex baseline only understands one layout. Receipts that say "Bill No", "Sub Total", or "Grand Total", or write dates like `21-03-2026` or `08 Aug 2026`, mostly return nothing.
 - The LLM fixes most of those layout failures. Vendor, invoice number, and date reach 100%.
-- The validation rules improve line items from 82% to 96% and fix the remaining tax and total errors.
+- The validation rules improve line items from 82% to 96% and fix the remaining subtotal, tax, and total errors.
 
 Known issues:
 
-- On one receipt (`synth_028`), the rules change a correct subtotal into a wrong one. This is still to be fixed.
 - Most remaining line-item errors are on items whose names contain units such as `1kg` or `1L`.
 
 ## Data note

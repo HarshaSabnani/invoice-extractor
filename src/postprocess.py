@@ -37,9 +37,23 @@ def matches_standard_rate(tax_amount, subtotal):
     return any(abs(tax_amount - subtotal * r / 100) <= 0.011 for r in STANDARD_TAX_RATES)
 
 
+def is_big_gap(a, b):
+    low, high = min(a, b), max(a, b)
+    return low > 0 and high / low >= 2
+
+
 def clean(result):
     fixes = []
     items = result.get("items") or []
+
+    original_amounts = [i.get("amount") for i in items]
+    stated_subtotal = result.get("subtotal")
+    amounts_match_subtotal = bool(
+        original_amounts
+        and all(is_number(a) for a in original_amounts)
+        and is_number(stated_subtotal)
+        and abs(sum(original_amounts) - stated_subtotal) <= 0.01
+    )
 
     for item in items:
         name = item.get("name")
@@ -62,6 +76,10 @@ def clean(result):
             if guess > 0 and abs(guess * price - amount) < 0.01:
                 item["qty"] = int(guess)
                 fixes.append("'%s': qty %s -> %d" % (item.get("name"), qty, guess))
+            elif amounts_match_subtotal and is_big_gap(qty * price, amount):
+                new_price = round(amount / qty, 2)
+                fixes.append("'%s': price %s -> %s (amount matches subtotal)" % (item.get("name"), price, new_price))
+                item["price"] = new_price
             else:
                 new_amount = round(qty * price, 2)
                 fixes.append("'%s': amount %s -> %s" % (item.get("name"), amount, new_amount))
