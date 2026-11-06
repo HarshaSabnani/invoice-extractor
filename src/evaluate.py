@@ -6,8 +6,10 @@ from baseline import read_receipt, extract
 FIELDS = ["vendor", "invoice_no", "date", "subtotal", "tax", "total"]
 
 method = sys.argv[1] if len(sys.argv) > 1 else "baseline"
-if method == "llm":
+if method in ("llm", "llm+rules"):
     from llm_extract import extract_llm
+if method == "llm+rules":
+    from postprocess import clean
 
 
 def same(a, b):
@@ -18,7 +20,7 @@ def same(a, b):
     return str(a).strip().lower() == str(b).strip().lower()
 
 
-def clean_llm_output(result):
+def tidy_llm_output(result):
     if isinstance(result.get("invoice_no"), str):
         result["invoice_no"] = result["invoice_no"].replace(" ", "")
     if not isinstance(result.get("items"), list):
@@ -55,8 +57,10 @@ for filename in sorted(os.listdir("data/labels")):
         truth = json.load(f)
 
     text = read_receipt(image_path)
-    if method == "llm":
-        predicted = clean_llm_output(extract_llm(name, text))
+    if method in ("llm", "llm+rules"):
+        predicted = tidy_llm_output(extract_llm(name, text))
+        if method == "llm+rules":
+            predicted = clean(predicted)
     else:
         predicted = extract(text)
 
